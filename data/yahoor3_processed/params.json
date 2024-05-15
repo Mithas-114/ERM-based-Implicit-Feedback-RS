@@ -1,1 +1,0 @@
-{"num_users": 9526, "num_items": 1000, "model_name": "ERM-MF-PRIOR", "K": 1, "lr": 0.005, "alpha": 0.005, "phi_theta": 100000000.0, "phi_r": 1, "mu": 0.07, "lam": 1e-05, "embedding_dim": 20, "r_default": 0.1}
